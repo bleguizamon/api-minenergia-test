@@ -1,0 +1,1 @@
+package com.minenergia.test.config;
